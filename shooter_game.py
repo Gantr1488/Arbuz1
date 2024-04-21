@@ -17,8 +17,8 @@ mixer.music.play()
 lost = 0
 font.init()
 score = 0
-font1 = font.Font(None,36)
-font2 = font.Font(None,70)
+font1 = font.Font(None,40)
+font2 = font.Font(None,80)
 
 
 
